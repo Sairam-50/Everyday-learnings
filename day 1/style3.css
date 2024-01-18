@@ -1,0 +1,42 @@
+button {
+  color: rgb(74, 159, 212);
+  background-color: white;
+  border: 1px solid gray;
+  padding: 10px 16px;
+  border-radius: 10px;
+}
+img {
+  width: 100%;
+  border-top-left-radius: 16px ;
+  border-top-right-radius: 16px ;
+}
+
+main {
+  width: 250px;
+  border: 1px solid gray;
+  border-radius:  16px ;
+  box-sizing: border-box;
+  margin:30px auto;
+}
+
+
+.box-2 {
+  padding: 16px;
+}
+
+.text {
+  color: gray;
+}
+
+.lock {
+  width: 20px;
+  height: 20px;
+
+}
+
+.small-box,
+span {
+  margin-left: 8px;
+  font-size: 14px;
+  
+}
